@@ -1,6 +1,6 @@
 # Toastune 🐾
 
-Reproductor de música gratuito y de código abierto para Android (y Linux después), nombrado por Tostada, una gatita muy querida.
+Reproductor de música gratuito y de código abierto para Android y Linux, nombrado por Tostada, una gatita muy querida.
 
 ## Estructura
 
@@ -33,7 +33,7 @@ implementarla y cambiar una línea en `ToastuneApp.provider`.
 - [x] Copia de seguridad de la biblioteca (JSON)
 - [x] Inicio de sesión con YouTube Music (me gusta, historial, playlists) estilo Metrolist
 - [x] Sincronización con Google Drive
-- [ ] Port a Linux (Compose Desktop + MPRIS)
+- [x] Port a Linux (Compose Desktop + MPRIS), ver la carpeta `Toastune (Linux)`
 - [ ] Backend y sincronización de cuentas
 
 ## Aviso
