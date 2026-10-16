@@ -4,6 +4,16 @@ Reproductor de música gratuito y de código abierto, nombrado por Tostada, una 
 Busca y reproduce desde YouTube Music, con letras sincronizadas, descargas sin conexión,
 listas, mezcla entre canciones y sincronización de tu biblioteca.
 
+<p align="center"><img src="docs/img/demo.gif" alt="Demostración de Toastune en Linux" width="720"></p>
+
+## Capturas (Linux)
+
+| | |
+|---|---|
+| ![Primer inicio](docs/img/01-onboarding.png) | ![Página de un artista](docs/img/02-artista.png) |
+| ![Pantalla de reproducción con letras](docs/img/03-letras.png) | ![Inicio](docs/img/04-inicio.png) |
+| ![Ajustes y ecualizador](docs/img/05-ajustes.png) | |
+
 ## Versiones
 
 | Carpeta | Plataforma | Tecnología |
