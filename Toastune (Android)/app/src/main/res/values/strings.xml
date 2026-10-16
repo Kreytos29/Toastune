@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Toastune</string>
+    <string name="download_channel">Descargas</string>
+    <string name="widget_description">Controla la música desde la pantalla de inicio</string>
+</resources>

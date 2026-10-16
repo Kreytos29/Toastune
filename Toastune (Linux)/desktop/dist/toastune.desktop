@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Toastune
+Comment=Reproductor de música libre
+Exec=sh -c 'java -jar ~/.local/share/toastune/Toastune.jar'
+Icon=toastune
+Categories=AudioVideo;Audio;Player;
